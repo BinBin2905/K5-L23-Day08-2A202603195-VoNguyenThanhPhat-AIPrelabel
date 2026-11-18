@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: BinBin2905
 - Repo bài nộp (URL): https://github.com/BinBin2905/K5-L23-Day08-2A202603195-VoNguyenThanhPhat-AIPrelabel
-- Commit chốt bài (hash):
+- Commit chốt bài (hash):0347d671725d6279424131996067ba73089d54c2
 - Máy: Window11, GPU Nvidia
 - CVAT (Docker): v2.81.0
 
